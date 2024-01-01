@@ -1,2 +1,10 @@
-# ngram-cosine-comparison-yoruba-grammer
-a yoruba grammer checker using ngram and cosine comparison 
+
+# Yoruba Grammer Suggestion 
+
+a simple grammer suggestion model built by utilizing 
+Ngrams, vector embeddings and cosine similarity to suggest correct yoruba grammer
+## Tech Stack
+
+**Dependency:** Python, Numpy, simple transformers,  
+
+
